@@ -3,6 +3,8 @@ After spending my first two years of college studying economics, focusing mainly
 
 More recently, I've spent time learning TypeScript from scratch, and contributing to the [Moiré](https://github.com/moire-cs) project, which aims to automate the soil data collection process of FCAT, the Equadorian NGO aiming to reforest a 42-hectare region of the Tropical Andes.
 
+Wondering why I had to take Discrete Math for 1327 days.
+
 <!--
 **aemotyka/aemotyka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
