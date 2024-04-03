@@ -1,5 +1,5 @@
 # About Me
-After spending my first two years of college studying economics, focusing mainly on its statistical subfield of econometrics, I found that I have a deep understanding of the math underlying machine learning. This has inspired me to pursue a career in the field after I receive my Master's degree in Computer Science from Tulane University next spring.
+After spending my first two years of college studying economics, focusing mainly on its statistical subfield of econometrics, I found that I have a deep understanding of the math underlying machine learning. This has inspired me to pursue a career in ML after I receive my Master's degree in Computer Science from Tulane University next spring.
 
 More recently, I've spent time learning TypeScript from scratch, and contributing to the [Moiré](https://github.com/moire-cs) project, which aims to automate the soil data collection process of FCAT, the Equadorian NGO aiming to reforest a large deforested region of the Tropical Andes.
 
