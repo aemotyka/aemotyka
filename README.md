@@ -1,9 +1,5 @@
 # About Me
-After spending my first two years of college studying economics, focusing mainly on its statistical subfield of econometrics, I found that I have a deep understanding of the math underlying machine learning. This has inspired me to pursue a career in ML after I receive my Master's degree in Computer Science from Tulane University next spring.
-
-More recently, I've spent time learning TypeScript from scratch, and contributing to the [Moiré](https://github.com/moire-cs) project, which aims to automate the soil data collection process of FCAT, the Equadorian NGO aiming to reforest a large deforested region of the Tropical Andes.
-
-Wondering why I had to take Discrete Math for 1327 days.
+Master's candidate in Computer Science with demonstrated expertise in deep learning, full-stack development, and data analysis. Experience building scalable applications and implementing machine learning solutions. Strong track record of leadership and project management in academic and professional settings.
 
 <!--
 **aemotyka/aemotyka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
