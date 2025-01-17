@@ -1,5 +1,5 @@
 # About Me
-Master's candidate in Computer Science with demonstrated expertise in deep learning, full-stack development, and data analysis. Experience building scalable applications and implementing machine learning solutions. Strong track record of leadership and project management in academic and professional settings.
+MS in Computer Science with experience in full-stack development, deep learning, and data science. Passionate about all things AI/ML, and cloud computing. Strong track record of leadership in academic and professional settings.
 
 <!--
 **aemotyka/aemotyka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
