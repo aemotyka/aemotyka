@@ -1,6 +1,5 @@
 # About Me
-MS in Computer Science with experience in full-stack development, deep learning, and data science. Passionate about all things AI/ML, and cloud computing. Strong track record of leadership in academic and professional settings.
-
+AI Engineer at M.S. Rau with an MS in Computer Science from Tulane. I love the nuts and bolts of CS— computer architecture, low-level systems, and how they connect to ML. Long-term, I’m aiming toward a PhD and hope to work on specialized hardware for ML, or software that powers space exploration.
 <!--
 **aemotyka/aemotyka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
