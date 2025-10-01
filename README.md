@@ -1,1 +1,1 @@
-I’m an AI Engineer with an MS in Computer Science from Tulane University. My work centers on applied machine learning, but my real interests lie in computer architecture, assembly, compilers, etc. Long term, I’m looking toward a PhD and the chance to push deeper into those areas.
+I’m an AI Engineer with an MS in Computer Science from Tulane University. My work centers on applied machine learning, but my real interests lie in computer architecture, processors, compilers, etc. Long term, I’m looking toward a PhD and the chance to push deeper into those areas.
